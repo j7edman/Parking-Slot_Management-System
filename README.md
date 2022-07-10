@@ -1,1 +1,0 @@
-# Parking-Slot_Management-System
